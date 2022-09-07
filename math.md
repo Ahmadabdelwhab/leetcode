@@ -89,6 +89,7 @@ flooe(1.7); // 1
 </tbody>
 </table>
 </div>
+
 ```cpp
 #include <cmath>
 ceil(1.1); // 2
@@ -170,6 +171,7 @@ round(1.7); // 2
 </tbody>
 </table>
 </div>
+
 ```cpp
 #include <cmath>
 trunc(1.1); // 1
